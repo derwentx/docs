@@ -19,3 +19,7 @@ The [Backbone.js client](https://developer.wordpress.org/rest-api/backbone-javas
 ## Ruby
 
 [wp-api-client](https://github.com/duncanjbrown/wp-api-client): a read-only REST API client written in Ruby.
+
+## Python
+
+[wp-api-python](https://github.com/derwentx/wp-api-python): Client for the Wordpress API written in Python. Supports reading / writing and even image upload.
